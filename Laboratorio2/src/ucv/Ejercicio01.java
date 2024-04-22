@@ -168,5 +168,4 @@ public class Ejercicio01 extends JFrame {
 		comboBox.setBounds(x, y, w, 40);
 		return comboBox;
 	}
-
 }
